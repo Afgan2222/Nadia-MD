@@ -42,12 +42,12 @@ global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.dtu = 'Group Bot'
+global.urlnya = "https://chat.whatsapp.com/DVfawsZozt36QdYmfQlsbD"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 821-2596-8810'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -62,7 +62,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'By 𝔸𝕗𝕘𝕒𝕟   𝕀𝔻 '
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
