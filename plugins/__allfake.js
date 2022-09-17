@@ -29,7 +29,7 @@ handler.all = async function (m) {
 		global.ucapan = ucapan()
 		
 		// pesan sementara
-		global.ephemeral = 'null' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
+		global.ephemeral = '86400' // 86400 = 24jam, kalo ingin di hilangkan ganti '86400' jadi 'null' atau ''
 		
 		// externalAdReply atau text with thumbnail. gatau bahasa Inggris? coba translate!
 		global.adReply = {
@@ -38,7 +38,7 @@ handler.all = async function (m) {
 				isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
 					title: "aktif selama: " + global.u,
-					body: wm,
+					body: © Afgan,
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(img)).buffer(),
 					//sourceUrl: 'https://wa.me/6282125968810',
